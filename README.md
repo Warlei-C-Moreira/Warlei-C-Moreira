@@ -28,10 +28,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Warlei-C-Moreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warlei-C-Moreira&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Warlei-C-Moreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warlei-C-Moreira&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
